@@ -69,7 +69,8 @@ Developed a system that helps students find available accommodation by showing a
 ---
 
 ## MOck interview 
-<video width="600" controls src= "
+<video width="600" controls src= "HnVideoEditor_2026_03_09_222338481 (1) (1) (1).mp4">
+</video>
 
 ## References
 
