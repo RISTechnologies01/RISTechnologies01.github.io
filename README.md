@@ -74,12 +74,12 @@ Developed a system that helps students find available accommodation by showing a
 
 ## References
 
-**Mr. Vusumzi Lolwana**
-*CPUT: E-learning centre coordinator*
+**Mr. Vusumzi Lolwana**  
+*CPUT – E-Learning Centre Coordinator*  
 📧 lolwanav@cput.ac.za  
 📞 021 460 3977 / 073 627 1995  
 
 **Mr. Radford Wayne Burger**  
-*CPUT: ICT Lecturer*
+*CPUT – ICT Lecturer*  
 📧 burgerr@cput.ac.za  
 📞 083 722 3501  
