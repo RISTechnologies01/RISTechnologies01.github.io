@@ -68,16 +68,18 @@ Developed a system that helps students find available accommodation by showing a
 
 ---
 
-## MOck interview 
+## Mock interview 
 <video width="600" controls src= "HnVideoEditor_2026_03_09_222338481 (1) (1) (1).mp4">
 </video>
 
 ## References
 
-**Mr. Vusumzi Lolwana**  
+**Mr. Vusumzi Lolwana** 
+_CPUT: E-learning centre coordinator_
 📧 lolwanav@cput.ac.za  
 📞 021 460 3977 / 073 627 1995  
 
 **Mr. Radford Wayne Burger**  
+_CPUT: ICT Lecturer_
 📧 burgerr@cput.ac.za  
 📞 083 722 3501  
