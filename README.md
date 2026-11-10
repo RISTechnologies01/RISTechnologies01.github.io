@@ -87,7 +87,7 @@ The project focuses on centralising essential information and resources to help 
 
 | Document | Access |
 |---|---|
-| Project Logbook | [View PDF](%5FLogbook.pdf) |
+| Project Logbook | [View PDF](_Logbook%20.pdf)|
 | NavigSA Pitch Presentation | [View PDF](DOC-20261027-WA0010.pdf) |
 | NavigSA Team Charter | [View PDF](DOC-20261027-WA0096.pdf) |
 | Agile Logbook: 21–24 July | [View PDF](NavigSA%20Agile%20Logbook%2021-24%20July.pdf) |
