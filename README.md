@@ -30,11 +30,11 @@ Sans Souci Girls’ High School
 
 ## Technical Skills
 
-- HTML  
-- CSS  
-- Java  
-- JavaScript  
-- C++  
+- HTML
+- CSS
+- Java
+- JavaScript
+- C++
 
 ---
 
@@ -61,16 +61,49 @@ March 2022 – March 2023
 ## Projects
 
 ### RFID Card Reader for Shuttle Systems
+
 Designed a system to improve access to campus shuttles by reducing congestion and increasing safety using RFID technology.
 
 ### Student Residence System for CPUT
+
 Developed a system that helps students find available accommodation by showing available spaces, residence capacity, and intake information.
+
+### NavigSA – Student Navigation Platform
+
+NavigSA is a digital platform concept aimed at simplifying the journey of international students who want to study in South Africa.
+
+The project focuses on centralising essential information and resources to help international students navigate higher education opportunities, university applications and the transition to studying in South Africa.
+
+**Project activities and documentation included:**
+- Project planning and organisation.
+- Development of user stories and task allocation.
+- Product backlog creation and management.
+- Sprint planning and tracking.
+- Agile development documentation.
+- Team coordination and project reflection.
+- Preparation of a project pitch presentation.
+
+**Project Documentation:**
+
+| Document | Access |
+|---|---|
+| Project Logbook | [View PDF](%5FLogbook.pdf) |
+| NavigSA Pitch Presentation | [View PDF](DOC-20261027-WA0010.pdf) |
+| NavigSA Team Charter | [View PDF](DOC-20261027-WA0096.pdf) |
+| Agile Logbook: 21–24 July | [View PDF](NavigSA%20Agile%20Logbook%2021-24%20July.pdf) |
+| Agile Logbook: 4–7 August | [View PDF](NavigSA_Agile_Logbook_4-7_August.pdf) |
+| Completed Agile Logbook | [View PDF](NavigSA_Agile_Logbook_filled%20copy.pdf) |
+| Product Backlog | [View PDF](NavigSA_Product_Backlog.pdf) |
+| Sprint Backlog | [View PDF](NavigSA_Sprint_Backlog.pdf) |
+| Reflection: User Stories and Tasks | [View PDF](Reflection%20-%20User%20Stories%20and%20Tasks.pdf) |
 
 ---
 
-## Mock interview 
-<video width="600" controls src= "HnVideoEditor_2026_03_09_222338481 (1) (1) (1).mp4">
-</video>
+## Mock Interview
+
+<video width="600" controls src="HnVideoEditor_2026_03_09_222338481 (1) (1) (1).mp4"></video>
+
+---
 
 ## References
 
@@ -83,3 +116,7 @@ Developed a system that helps students find available accommodation by showing a
 *CPUT – ICT Lecturer*  
 📧 burgerr@cput.ac.za  
 📞 083 722 3501  
+
+---
+
+© 2026 Nolwazi Zulu
